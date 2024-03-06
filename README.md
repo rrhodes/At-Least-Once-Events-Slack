@@ -6,14 +6,15 @@ Welcome! This is a public repository for documentation relevant to the "At Least
 
 The current admins are:
 
-* Admin One
-* Admin Two
+* Paulė Akramaite-Dean
+* Ross Rhodes
 
 ## Rules
 
 Please
 
 * read the community's [Code of Conduct](#code-of-conduct). You must adhere to this Code of Conduct throughout your time in the community.
+* avoid politics. There's plenty other platforms for this topic.
 * set a profile picture. This doesn't necessary need to be a picture of you, but a picture is preferable to a placeholder profile icon.
 
 ## Code of Conduct
